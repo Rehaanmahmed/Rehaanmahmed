@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="animated" />
+</p>
 # 💫 About Me:
 🎓 I'm a student with a strong passion for Software Development and Data Science.<br>🌱 Currently diving into Machine Learning and Backend Development.<br>⚡ Fun fact: I enjoy tackling real-world challenges by building practical, impactful solutions with code!
 
