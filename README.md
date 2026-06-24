@@ -1,29 +1,62 @@
-<p align="center">
-  <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="animated" />
-</p>
-# 💫 About Me:
-🎓 I'm a student with a strong passion for Software Development and Data Science.<br>🌱 Currently diving into Machine Learning and Backend Development.<br>⚡ Fun fact: I enjoy tackling real-world challenges by building practical, impactful solutions with code!
+# Hi, I'm Rehaan Ahmed 👋
 
+### Software Developer | Full-Stack Developer | AI & Healthcare Technology Enthusiast
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+I'm a BCA (IT in Healthcare) student at Jain (Deemed-to-be University) with hands-on experience in Full-Stack Development, Backend Engineering, and AI-powered applications.
 
----
-[![](https://visitcount.itsvg.in/api?id=Rehaanmahmed&icon=0&color=0)](https://visitcount.itsvg.in)
+I enjoy building scalable web applications, healthcare technology solutions, and intelligent automation systems using modern development frameworks and cloud-ready architectures.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Current Focus
 
-<!--
-**Rehaanmahmed/Rehaanmahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Full-Stack Development (React + FastAPI)
+* Backend Engineering with Python
+* PostgreSQL Database Design
+* AI-Powered Applications
+* Healthcare Technology Solutions
 
-Here are some ideas to get you started:
+### Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### HealthVault – AI-Powered Personal Health Records Management System
+
+A full-stack healthcare platform that enables users to securely manage health records, upload medical reports, and generate AI-powered report summaries.
+
+**Tech Stack:** React, FastAPI, PostgreSQL, JWT Authentication, SQLAlchemy
+
+#### AI-Powered WhatsApp Auto-Messaging System
+
+Built a WhatsApp automation platform that integrates Google Gemini AI for intelligent message generation and automated conversational workflows.
+
+**Tech Stack:** Node.js, Baileys, Google Gemini AI
+
+#### AI-Powered Healthcare Report Analysis
+
+Developed an AI-driven application that analyzes medical reports and generates preliminary health insights using NLP techniques.
+
+**Tech Stack:** Python, Machine Learning, NLP
+
+### Technical Skills
+
+**Languages:** Python, JavaScript, SQL
+
+**Frontend:** React.js, HTML5, CSS3, TypeScript
+
+**Backend:** FastAPI, REST APIs, JWT Authentication
+
+**Database:** PostgreSQL, SQLAlchemy
+
+**Tools:** Git, GitHub, Docker, Postman
+
+**AI:** Google Gemini AI, Prompt Engineering
+
+### Research & Publications
+
+📄 Published Research Paper: *AI Tools in Healthcare*
+Presented at IC-AIRCMT 2026 International Conference on Artificial Intelligence Revolution in Commerce and Management.
+
+### Connect With Me
+
+📧 Email: [rehanahmedm07@gmail.com](mailto:rehanahmedm07@gmail.com)
+
+💼 LinkedIn: [www.linkedin.com/in/rehaan-ahmed-3289a2284](http://www.linkedin.com/in/rehaan-ahmed-3289a2284)
+
+🐙 GitHub: github.com/Rehaanmahmed
